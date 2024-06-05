@@ -1,6 +1,6 @@
 # Banking-Marketing-Analysis
 
-This project is my third and last practical application from UC Berkeley's MLAI bootcamp. The task is to analyze a dataset of marketing banking campaigns through telephone to classify whether a client would subscribe to a deposit term or not. The full work and report can be found on this notebook.
+This project is my third and last practical application from UC Berkeley's MLAI bootcamp. The task is to analyze a dataset of marketing banking campaigns through telephone to classify whether a client would subscribe to a deposit term or not. The full work and report can be found on this [notebook](https://github.com/DKW2/Banking-Marketing-Analysis/blob/main/banking-marketing-analysis.ipynb).
 
 # Report
 Starting with a dataset of 41188 entries, I first checked to see that the two classes are unbalanced with a split of around 90-10 (no, yes). I then proceeded to explore the data, taking note of categorical and numerical features as well as indentifying potential features to manipulate/remove. One feature that had to be removed was the "call duration" feature, since the feature can only be recorded during the call, not before.
