@@ -39,7 +39,7 @@ From our results, we have seen that it's difficult to identify potential clients
 
 As for the next steps for this project, we will either need to recontexualize the problem or collect new data that could help classify clients more accurately.
 
-For example, from our investigation, we discovered that call duration was the only feature that had a significant impact on our classification models. Thus, we could find features that relate to the calls themselves such as call time or quality of call, and add them into the next dataset. This way, we might have a better chance of training a more accurate model. If so, we would need to change the problem from identifying clients before promotion to identifying ways to attract clients during promotion. This way, we can inform the bank of ways to promote and advertise to clients.
+For example, from our investigation, we discovered that call duration was the only feature that had a significant impact on our classification models. Thus, we could find features that relate to the calls themselves such as call time or quality of call, and add them into the next dataset. This way, we might have a better chance of training a more accurate model. If so, we would need to change the problem from identifying clients before marketing to identifying ways to attract clients during marketing. This way, we can inform the bank of ways to effectively promote and advertise to clients.
 
 If we wish to stay with identifying potential clients, then we would probably need to find more features to record and utilize. Perhaps having more client information such as income, debt, and housing might help contribute to a more accurate model.
 
